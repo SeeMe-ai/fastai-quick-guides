@@ -14,8 +14,8 @@ For the beta period,
 
 # 0. Guide overview
 
-* [Fast.ai v1 (if you're not sure: start here)](https://github.com/zerotosingularity/seeme-quick-guides/blob/master/seeme-quick-guide-fastai-v1.ipynb)
-* [Fast.ai v2 (preview)](https://github.com/zerotosingularity/seeme-quick-guides/blob/master/seeme-quick-guide-fastai-v2.ipynb)
+* [Fast.ai v1 (if you're not sure: start here)](https://github.com/SeeMe-ai/fastai-quick-guides/blob/master/seeme-quick-guide-fastai-v1.ipynb)
+* [Fast.ai v2 (preview)](https://github.com/SeeMe-ai/fastai-quick-guides/blob/master/seeme-quick-guide-fastai-v2.ipynb)
 
 # 1. Guide structure #
 
