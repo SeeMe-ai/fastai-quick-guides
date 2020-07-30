@@ -23,6 +23,7 @@ These guides focus on getting your model deployed and shared on [Seeme.ai](https
 
 ## 1.0. Setup ##
 
+* Have a look at [our Docker images for Fast.ai](https://hub.docker.com/u/seemeai)
 * Set up SeeMe SDK
 * Links to setup instructions for the particular framework
 
