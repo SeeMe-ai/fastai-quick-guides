@@ -47,10 +47,6 @@ Discuss the various ways to use your model:
 
 Share your work with friends, colleagues and the world. For fun and profit.
 
-## 1.5. More resources ##
-
-Interesting links 
-
 # 2. Support #
 
 More documentation is on its way, but you can always contact us for more info:
