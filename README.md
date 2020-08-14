@@ -52,4 +52,4 @@ Share your work with friends, colleagues and the world. For fun and profit.
 
 More documentation is on its way, but you can always contact us for more info:
 
-[guides@seeme.ai](mailto:guides@seeme.ai)
+[jan.vandepoel@seeme.ai](mailto:jan.vandepoel@seeme.ai)
