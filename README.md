@@ -8,7 +8,7 @@ SeeMe.ai is currently in development and things might break.
 
 For the beta period, 
 
-- you can host one model with up to 1000 predictions for free;
+- you can host one model with up to 1000/month predictions for free;
 - We are working on a fair and sustainable pricing (contact iwantto@seeme.ai for more info);
 - We rely on your code of honor for fair use.
 
