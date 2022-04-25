@@ -8,14 +8,14 @@ SeeMe.ai is currently in development and things might break.
 
 For the beta period, 
 
-- you can host one model with up to 1000 predictions for free;
+- you can host one model with up to 1000 predictions/month for free;
 - We are working on a fair and sustainable pricing (contact iwantto@seeme.ai for more info);
 - We rely on your code of honor for fair use.
 
 # 0. Guide overview
 
 * [Fast.ai v1 (the old course)](https://github.com/SeeMe-ai/fastai-quick-guides/blob/master/seeme-quick-guide-fastai-v1.ipynb)
-* [Fast.ai v2 (the current course](https://github.com/SeeMe-ai/fastai-quick-guides/blob/master/seeme-quick-guide-fastai-v2.ipynb)
+* [Fast.ai v2 (start here if you're not sure)](https://github.com/SeeMe-ai/fastai-quick-guides/blob/master/seeme-quick-guide-fastai-v2.ipynb)
 
 # 1. Guide structure #
 
