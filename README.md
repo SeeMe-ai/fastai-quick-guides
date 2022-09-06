@@ -4,13 +4,6 @@ This repository contains a set of quick guides to deploy and share your AI model
 
 We are building the tools for you to easily **train, use and share your AI models**.
 
-SeeMe.ai is currently in development.
-
-For the beta period, 
-
-- you can host one model with up to 1000 predictions/month for free;
-- We are working on a fair and sustainable pricing (contact iwantto@seeme.ai for more info);
-- We rely on your code of honor for fair use.
 
 # 0. Guide overview
 
