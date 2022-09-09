@@ -42,7 +42,7 @@ Share your work with friends, colleagues and the world. For fun and profit.
 
 # 2. Documentation #
 
-Visit [our docs](https://docs.seeme.ai) for a full overview of platform and [Python SDK](https://docs.seeme.ai/python-sdk/) capabilities.
+Visit [our docs](https://docs.seeme.ai) for a full platform overview and all the [Python SDK](https://docs.seeme.ai/python-sdk/) capabilities.
 
 # 3. Support #
 
