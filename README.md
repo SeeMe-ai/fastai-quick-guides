@@ -40,8 +40,10 @@ Discuss the various ways to use your model:
 
 Share your work with friends, colleagues and the world. For fun and profit.
 
-# 2. Support #
+# 2. Documentation #
 
-More documentation is on its way, but you can always contact us for more info:
+Visit [our docs](https://docs.seeme.ai) for a full platform overview and all the [Python SDK](https://docs.seeme.ai/python-sdk/) capabilities.
 
-[support@seeme.ai](mailto:support@seeme.ai)
+# 3. Support #
+
+For questions, bugs, or feedback, please contact: [support@seeme.ai](mailto:support@seeme.ai)
